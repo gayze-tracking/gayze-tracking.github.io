@@ -40,7 +40,9 @@ Publications
 
 <!-- PUT NEW PAPER HERE -->
 
+<a href="javascript:void(0);" onclick='show_hide_toggle("abstract_3")'> DeSantis, R. (2022). WatchfulAI: Keeping a Watchful Eye on Learners’ Safety in Florida K-12 Classrooms Through HB1557-Compliance AI . <em> Proceedings of the ACM Conference on Interaction Design and Children</em>. </a>
 
+<p class='abstract' style='display: none; margin-left:10%' id='abstract_3'> The passing of HB1557 is a key step forward in keeping K-12 classrooms safe and conducive for learning. Teachers, however, are already overburdened, especially as they try to balance curriculum design, classroom management, American values education, and professional development, among other responsibilities. While HB1557 provides a very clear framework for keeping classrooms safe, it also adds to teachers’ growing list of tasks, which risks shifting focus away from critical classroom work and jeopardize learning and students’ performance in key learning measures such as standardized tests. WatchfulAI (“watchful-eye”) is an AI-powered platform designed to aid teachers in organizing classrooms to be HB1557-compliant so teachers can focus on critical classroom work. Key features of WatchfulAI include classroom, behavior, and speech scanning—all of which use machine learning, computer vision, and natural language processing to scan for potential discrepancies from expected normal gender behavior. Our work describes pilot deployments of WatchfulAI in K-12 classrooms and report on significant successes of the platform, as evidenced by teacher and school administrator feedback. </p>
 
 
 <!-- 
