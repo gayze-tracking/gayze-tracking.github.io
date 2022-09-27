@@ -67,7 +67,7 @@ Press
 <br><br>
 
 
-[ClickHole](https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters) (2021) - Empowering Gamers To Customize Prefered Amount Toxicity of Filter Toxic Through AI Sliders
+[ClickHole](https://www.theverge.com/2021/4/8/22373290/intel-bleep-ai-powered-abuse-toxicity-gaming-filters) (2021) - Empowering Gamers to Customize Preferred Amount Toxicity: How Much of the F-Word Would You Like to Hear?
 
 <img src="https://user-images.githubusercontent.com/28931962/179065811-89a7ea3e-a737-4ac2-87b1-e9fd7df3cd24.png" width="100%" style="margin-bottom:5%">
 
