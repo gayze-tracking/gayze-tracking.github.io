@@ -19,7 +19,7 @@ Our work includes using the power of Deep Learning to explain the unexplainable;
 Publications
 ------
 
-<a href="javascript:void(0);" onclick='show_hide_toggle("abstract_00")' id="paper_00"> Abbot, G. (2022). Value Sensitive Child Welfare Algorithm Design: Co-Designing a Texas Child Welfare Algorithm. <em> 2022 ACM Conference on Fairness, Accountability, and Transparency</em>. </a>
+<p> Abbot, G. (2022). <a href="javascript:void(0);" onclick='show_hide_toggle("abstract_00")' id="paper_00"> Value Sensitive Child Welfare Algorithm Design: Co-Designing a Texas Child Welfare Algorithm. </a> <em> 2022 ACM Conference on Fairness, Accountability, and Transparency</em>. </p>
 
 <p class='abstract' id='abstract_00' style='display: block; margin-left: 10%'> Machine learning-based decision support systems (DSSs) are increasingly used to support high-stakes decision-making. One domain in which these are frequently deployed is social service decision support, such as child welfare screening. Prior work on child welfare DSSs has extensively studied extant systems in a post hoc manner, but it remains to be seen how these systems can be co-designed with workers and impacted communities. Following a decision from the governor of Texas to classify trans-affirming healthcare as child abuse, we worked with social workers and parents to co-design new objective functions and features for classifying child maltreatment in their existing DSS. We end by discussing the implication of our research for the design of high-stakes DSSs with diverse stakeholders. </p>
 
