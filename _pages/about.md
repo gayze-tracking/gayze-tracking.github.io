@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Computing for Social Good(ish) Research Lab"
+title: "Computing for Social Good-ish Research Lab"
 author_profile: false
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Our <em>(fictional)</em> interdisciplinary research group crosses boundaries of machine learning and artificial intelligence, the public and private sector, individuals and society to search for how to create a better world for everyone, one program at a time.
+Our <strong>fictional</strong> interdisciplinary research group crosses boundaries of machine learning and artificial intelligence, the public and private sector, individuals and society to search for how to create a better world for everyone, one program at a time.
 
 We believe that the use of ML and AI is critical in improving the lives of everyone in an unbiased, fair, and ethical manner.
 
