@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fair, Accountable, & Transparent AI for Social Good Research Lab"
+title: "Fair AI for Social Good Research Lab"
 author_profile: false
 redirect_from: 
   - /about/
